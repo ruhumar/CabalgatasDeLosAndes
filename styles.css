@@ -237,7 +237,7 @@ input:hover{
 @media screen and (max-width: 600px){
 form {
     position : relative;
-    width  : 250rem;
+    width  : 200rem;
     height : 250rem;
     margin : 0 auto;
     padding: 1em;
